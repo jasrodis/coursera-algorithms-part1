@@ -29,7 +29,7 @@ The fraction of sites that are opened when the system percolates provides an est
 For example, if sites are opened in a 20-by-20 lattice, then our estimate of the percolation threshold is 204/400 = 0.51 because the system percolates when the 204th site is opened.
 
 ## API:
-`
+```
 public class PercolationStats {
    public PercolationStats(int N, int T)     // perform T independent experiments on an N-by-N grid
    public double mean()                      // sample mean of percolation threshold
@@ -39,10 +39,10 @@ public class PercolationStats {
 
    public static void main(String[] args)    // test client (described below)
 }
-`
+```
 
 Tests: 
-`
+```
 % java PercolationStats 200 100
 mean                    = 0.5929934999999997
 stddev                  = 0.00876990421552567
@@ -63,4 +63,4 @@ stddev                  = 0.11776536521033558
 mean                    = 0.6669475
 stddev                  = 0.11775205263262094
 95% confidence interval = 0.666217665216461, 0.6676773347835391
-`
+```
