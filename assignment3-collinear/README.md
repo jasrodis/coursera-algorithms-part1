@@ -180,12 +180,7 @@ The algorithm solves the problem because points that have equal
 slopes with respect to <em>p</em> are collinear, and sorting brings such points together.
 The algorithm is fast because the bottleneck operation is sorting.
 
-<p>
 
-<center>
-<IMG SRC="lines1.png" width = 300 alt =  "Points and slopes">
-</center>
-<p>
 Write a program <code>FastCollinearPoints.java</code> that implements this algorithm.
 
 <blockquote>
