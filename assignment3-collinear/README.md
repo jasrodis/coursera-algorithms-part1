@@ -4,9 +4,7 @@
 <HEAD>
 
 
-<TITLE>
-Programming Assignment 3: Pattern Recognition
-</TITLE></HEAD>
+</HEAD>
 
 
 <BODY>
