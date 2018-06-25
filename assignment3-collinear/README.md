@@ -31,9 +31,6 @@ Given a set of <em>n</em> distinct points in the plane,
 find every (maximal) line segment that connects a subset of 4 or more of the points.
 <p>
 
-<center>
-<IMG SRC="lines2.png" width = "500" height = "200" alt =  "Points and lines">
-</center>
 
 <p>
 <b>Point data type.</b>
