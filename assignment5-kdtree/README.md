@@ -3,10 +3,6 @@
 <HTML>
 <HEAD>
 
-<TITLE>
-Programming Assignment 5: Kd-Trees
-</TITLE></HEAD>
-
 <BODY>
 <H2>Programming Assignment 5: Kd-Trees</H2>
 </HEAD>
