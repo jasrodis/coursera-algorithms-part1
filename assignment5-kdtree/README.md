@@ -20,18 +20,13 @@ closest point to a query point).
 to computer animation to speeding up neural networks to mining data to image retrieval.
 
 <p>
-<center>
-<img src = "kdtree-ops.png" width = 600 alt = "Range search and k-nearest neighbor">
-</center>
+
 
 <p><br><b>Geometric primitives.</b>
 To get started, use the following geometric primitives for points and
 axis-aligned rectangles in the plane.
 
 <p>
-<center>
-<img src = "RectHV.png" width = 450 alt = "Geometric primitives">
-</center>
 
 <ul>
 
